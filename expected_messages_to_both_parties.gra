@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE chartFormat SYSTEM "chartformat.dtd">
+<chartFormat graphTitle="" legendFontColourB="0" legendFontColourG="0" legendFontColourR="0" legendFontName="SansSerif" legendFontSize="11" legendFontStyle="0" legendPosition="right" legendVisible="true" titleFontColourB="0" titleFontColourG="0" titleFontColourR="0" titleFontName="SansSerif" titleFontSize="14" titleFontStyle="0" versionString="4.4">
+<layout/>
+<axis autoscale="true" heading="N" headingFontColourB="0" headingFontColourG="0" headingFontColourR="0" headingFontName="SansSerif" headingFontSize="12" headingFontStyle="0" logBase="10.0" logStyle="1" logarithmic="false" majorColourB="204" majorColourG="204" majorColourR="204" majorGridInterval="0.2" maxValue="1.0" maximumPower="1.0" minValue="0.0" minimumPower="0.0" numberFontColourB="0" numberFontColourG="0" numberFontColourR="0" numberFontName="SansSerif" numberFontSize="12" numberFontStyle="0" showMajor="true"/>
+<axis autoscale="true" heading="Expected messages_needed" headingFontColourB="0" headingFontColourG="0" headingFontColourR="0" headingFontName="SansSerif" headingFontSize="12" headingFontStyle="0" logBase="10.0" logStyle="1" logarithmic="false" majorColourB="204" majorColourG="204" majorColourR="204" majorGridInterval="0.2" maxValue="1.0" maximumPower="1.0" minValue="0.0" minimumPower="0.0" numberFontColourB="0" numberFontColourG="0" numberFontColourR="0" numberFontName="SansSerif" numberFontSize="12" numberFontStyle="0" showMajor="true"/>
+<graph lineStyle="normal" lineWidth="1.0" seriesColourB="255" seriesColourG="0" seriesColourR="0" seriesHeading="EGL" seriesShape="circle" showLines="true" showPoints="true">
+<point x="1.0" y="9.5"/>
+<point x="2.0" y="17.75"/>
+<point x="3.0" y="25.875"/>
+<point x="4.0" y="33.9375"/>
+<point x="5.0" y="41.96875"/>
+<point x="6.0" y="49.984375"/>
+<point x="7.0" y="57.9921875"/>
+<point x="8.0" y="65.99609375"/>
+<point x="9.0" y="73.998046875"/>
+<point x="10.0" y="81.9990234375"/>
+</graph>
+<graph lineStyle="normal" lineWidth="1.0" seriesColourB="0" seriesColourG="127" seriesColourR="0" seriesHeading="EGL2" seriesShape="square" showLines="true" showPoints="true">
+<point x="1.0" y="9.25"/>
+<point x="2.0" y="16.5625"/>
+<point x="3.0" y="23.515625"/>
+<point x="4.0" y="30.37890625"/>
+<point x="5.0" y="37.2509765625"/>
+<point x="6.0" y="44.156494140625"/>
+<point x="7.0" y="51.09381103515625"/>
+<point x="8.0" y="58.05470275878906"/>
+<point x="9.0" y="65.03125381469727"/>
+<point x="10.0" y="72.01757907867432"/>
+</graph>
+<graph lineStyle="normal" lineWidth="1.0" seriesColourB="0" seriesColourG="0" seriesColourR="255" seriesHeading="EGL3" seriesShape="triangle" showLines="true" showPoints="true">
+<point x="1.0" y="8.75"/>
+<point x="2.0" y="13.8125"/>
+<point x="3.0" y="17.921875"/>
+<point x="4.0" y="21.72265625"/>
+<point x="5.0" y="25.4912109375"/>
+<point x="6.0" y="29.309814453125"/>
+<point x="7.0" y="33.18670654296875"/>
+<point x="8.0" y="37.10914611816406"/>
+<point x="9.0" y="41.062435150146484"/>
+<point x="10.0" y="45.03513813018799"/>
+</graph>
+<graph lineStyle="normal" lineWidth="1.0" seriesColourB="191" seriesColourG="191" seriesColourR="0" seriesHeading="EGL4" seriesShape="rectangle_h" showLines="true" showPoints="true">
+<point x="1.0" y="8.75"/>
+<point x="2.0" y="13.8125"/>
+<point x="3.0" y="18.046875"/>
+<point x="4.0" y="22.09765625"/>
+<point x="5.0" y="26.2099609375"/>
+<point x="6.0" y="30.434814453125"/>
+<point x="7.0" y="34.75701904296875"/>
+<point x="8.0" y="39.14820861816406"/>
+<point x="9.0" y="43.583919525146484"/>
+<point x="10.0" y="48.04685688018799"/>
+</graph>
+</chartFormat>
